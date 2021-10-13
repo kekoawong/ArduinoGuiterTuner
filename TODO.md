@@ -1,0 +1,5 @@
+- [x] Read frequency
+- [x] Output interpreted note
+- [x] Create output to show how far note is off from intended
+- [ ] Implement power threshold to ignore background noise
+- [ ] Read three notes at a time to read chords
